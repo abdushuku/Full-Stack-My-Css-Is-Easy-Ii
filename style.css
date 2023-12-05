@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col{
+    padding: 23px 23px;
+    border: 2px #000 solid;
+    border-radius: 8px;
+}
+.header{
+    background: rgb(250, 150, 0);
+    font-weight: 700;
+}
+
+.main{
+    background: rgb(0, 153, 255);
+}
+
+.sidebar{
+    background: rgba(253, 61, 3, 0.901);
+}
+
+.footer{
+    background: rgb(1, 244, 30);
+}
+
+.container{
+    max-width: inherit;
+    width: 100%;
+}
